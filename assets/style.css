@@ -112,6 +112,8 @@ body {
 	position: relative;
 	margin-bottom: 0 !important;
 	padding: 0;
+	width: 30%;
+	margin-left: auto;
 }
 .item-column::after{
 	content: "";
